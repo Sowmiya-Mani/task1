@@ -1,0 +1,192 @@
+body{
+ margin: 0;
+ padding: 20px;
+
+
+}
+
+.navbar-one ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.navbar-one li{
+    display: inline-block;
+    border-left: 1px solid;
+
+}
+.navbar-one a{
+    text-decoration: none;
+    color: black; 
+    width: 100px;
+    display: block;
+    padding: 20px 10px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navbar-one a:hover{
+    background:black ;
+    color: azure;
+}
+ .heading h1{
+    font-size: 30px;
+    color: black;
+   
+ }
+
+.heading p{
+color: gray;
+}
+.hd2{
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 500px 100px;
+    line-height: 1.5em;
+    padding: 20px 10px;
+    background-color: gray;
+    color: white;
+    width: 999px;
+    
+}
+.hd1{
+    display: flex;
+}
+.heading{
+    line-height: 0.25em;
+    width: 350px;
+}
+hr{
+    border: 3px solid black;
+}
+.image1{
+    margin: 0px;
+    background: url(star.jpg);
+    width: 55%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+    
+}
+.image1{
+    margin: 0px ;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: lighter;
+
+}
+
+.downnav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    margin-top: 250px ;
+}
+.downnav li{
+    display: inline-block;
+    border-left: 1px solid;
+
+}
+.downnav a{
+    text-decoration: none;
+    color: white; 
+    width: 100px;
+    display: bottom;
+    padding: 20px 10px;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: black;
+    margin-bottom: right;
+}
+.downnav a:hover{
+    background-color: red;
+
+}
+.line{
+     border: 3px solid black;
+     width: 60%;
+     margin-left: 0px;
+}
+
+.line1{
+    border: 1px solid black;
+    width: 60%;
+    margin-left: 0px;
+}
+.lh{
+    border: 1px solid black;
+    width: 100%;
+    margin-left: 0px;
+
+}
+.bgimg{
+margin-top: 25px;
+line-height: 0.5em;
+text-align: left;
+width: 50%;
+border-right: 1px rgb(73, 72, 72) solid;
+}
+
+.images2{
+background-image: url(ceaser.jpg) ;
+margin: top 250px;
+height: 175px;
+width: 50%;
+padding: 28px;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+}
+.images1{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.story{
+    margin-top: 30px;
+    text-align: center;
+}
+main{
+    display: flex;
+}
+
+input{
+margin-top: 20px;
+font-size: 20px;
+margin: 4px;
+}
+.image3{
+    text-align: center;
+    background-image: url(tour.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 250px;
+   width: 50%;
+   padding: 28px;
+}
+#caption{
+    
+    margin-top: 280px;
+
+}
+.caption2{
+    color: red;
+}
+span{
+    color: red;
+}
+h2{
+    font-weight: bold;
+}
+main{
+    display: flex;
+    
+}
+.content{
+    display: flex;
+}

@@ -1,0 +1,19 @@
+<DOCTYPE html>
+    html lang="en"
+    <html>
+        <head>
+            <meta name="viewport" content="IE=edge">
+            <title>NEWSPRO</title>
+        </head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="">HOME</a></li>
+            <li><a href="">SAMPLE PAGE</a></li>
+            <li><a href="">PAGE LAYOUTS</a></li>
+            <li><a href="">PAGE TEMPLATES</a></li>
+            <li><a href="">CONTACT PAGE</a></li>
+        </ul>
+    </nav>
+</body>
+    </html>
